@@ -2,6 +2,7 @@ name: ShiftVision
 favicon: null
 layout_spectrum: 0.51355
 typography_spectrum: 0.83243
+title: Test
 cta:
   domain: null
   bucket: null
