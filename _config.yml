@@ -1,7 +1,7 @@
 name: ShiftVision
 favicon: null
 layout_spectrum: 0.51355
-typography_spectrum: 0.83243
+typography_spectrum: 0.79236
 title: Test
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.875
+  brandStrength: 1
   lightness: 0.6875
   saturation: 0.1875
   rhythmicContrast: 1
