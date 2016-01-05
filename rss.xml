@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ShiftVision]]></title>
         <description><![CDATA[ShiftVision]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shiftvision/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 09:12:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 09:13:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shiftvision/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>test</p>]]></description>
+            <link>https://thegrid.ai/shiftvision/91f56727-0cbb-4326-b093-c3b196221343/index.html</link>
+            <guid isPermaLink="false">91f56727-0cbb-4326-b093-c3b196221343</guid>
+            <pubDate>Tue, 05 Jan 2016 09:13:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test]]></title>
             <description><![CDATA[<article><h1>Test</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lectus metus, dapibus vitae augue et, lobortis sodales enim. Quisque ante massa, imperdiet in nunc eu, accumsan viverra nisi. Aliquam ipsum ipsum, interdum eu magna vitae, hendrerit mattis dolor. Fusce quis rhoncus lectus. Suspendisse id viverra sem. Maecenas maximus vulputate ligula ut euismod. Nullam nunc diam, vestibulum nec risus a, luctus lobortis lacus. Fusce tempus mauris ut lacus sodales aliquet. Donec non vulputate metus, eu ullamcorper tellus. Vestibulum sapien mauris, lobortis a enim vel, mollis rutrum dui. Sed sit amet condimentum orci. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam ligula velit, sodales et fringilla quis, eleifend tempus neque. Praesent consectetur nibh id tortor vehicula, id sodales nisi convallis. Curabitur eu accumsan ipsum. Morbi ut mauris sed nunc placerat fringilla in non velit.</p></article>]]></description>
-            <link>undefinedtest/index.html</link>
+            <link>https://thegrid.ai/shiftvision/test/index.html</link>
             <guid isPermaLink="false">865852c3-dc34-428f-8bc1-ea9c65dde340</guid>
             <pubDate>Tue, 05 Jan 2016 09:12:23 GMT</pubDate>
         </item>
